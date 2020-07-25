@@ -1,2 +1,2 @@
 # TSF-Internship
-Here are all projects of TSF Internship.
+All projects of TSF Internship.
